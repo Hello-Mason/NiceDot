@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
+    <url>https://your-server.com/downloads/NiceDot-2.0.0.0.zip</url>
+    <changelog>https://your-server.com/changelog.html</changelog>
+    <mandatory>false</mandatory>
+    <checksum algorithm="MD5">你的文件MD5值</checksum>
+</item>
