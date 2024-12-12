@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.0</version>
-    <url>https://github.com/Hello-Mason/NiceDot/blob/main/SteamNodes1.2.4.7z</url>
-    <changelog>https://example.com/changelog.html</changelog>
+    <version>9.6.5.0</version>
+    <url>https://github.com/WFCD/WFinfo/releases/latest/download/WFInfo.zip</url>
+    <changelog>https://github.com/WFCD/WFinfo/releases/latest</changelog>
     <mandatory>false</mandatory>
-</item> 
+</item>
